@@ -9,4 +9,4 @@ var checkPalindrome = function(word){
     return true;
     }
     var output = checkPalindrome("rasecar");
-    console.log(output);
+    console.log(output)
