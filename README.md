@@ -14,4 +14,5 @@
   <li><a href="Palindrome Checker.js">Palindrome Checker</a></li>
   <li><a href="">3rd Highest Number in Array</a></li>
   <li><a href="https://github.com/Akhras4/JS-Intermediate/blob/fc4bb1d90fe50f8b5864551f1b55c7816b291752/LargestNumberinArrays.js#L8">LargestNumberinArrays</a></li>
+  <li><a>Find the longest Word in a String</a></li>
 </ol>
