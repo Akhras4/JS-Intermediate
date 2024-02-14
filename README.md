@@ -15,5 +15,5 @@
   <li><a href="">3rd Highest Number in Array</a></li>
   <li><a href="https://github.com/Akhras4/JS-Intermediate/blob/fc4bb1d90fe50f8b5864551f1b55c7816b291752/LargestNumberinArrays.js#L8">LargestNumberinArrays</a></li>
   <li><a href="https://github.com/Akhras4/JS-Intermediate/blob/5818c0ca8fc51f172514ec4a8109f1f044bff0f4/Find%20the%20longest%20Word%20in%20a%20String.js#L1">Find the longest Word in a String</a></li>
-  <li><a href="https://github.com/Akhras4/JS-Intermediate/blob/2a2a10ccf47f029560b6a78879b54524892a265d/TitleCaseaSentence.js#L1">Title Case a Sentence</a></li>
+  <li><a href="https://github.com/Akhras4/JS-Intermediate/blob/bb9c8a911ab4af0187ab293ec0082ad55314d673/TitleCaseaSentence.js#L1">Title Case a Sentence</a></li>
 </ol>
