@@ -17,5 +17,5 @@
   <li><a href="https://github.com/Akhras4/JS-Intermediate/blob/5818c0ca8fc51f172514ec4a8109f1f044bff0f4/Find%20the%20longest%20Word%20in%20a%20String.js#L1">Find the longest Word in a String</a></li>
   <li><a href="https://github.com/Akhras4/JS-Intermediate/blob/bb9c8a911ab4af0187ab293ec0082ad55314d673/TitleCaseaSentence.js#L1">Title Case a Sentence</a></li>
   <li><a href="https://github.com/Akhras4/JS-Intermediate/blob/ea7dad2e6b1369b96ac3888981b53f1192c28f60/SumAllNumbersinARange.js#L1">Sum All Numbers in a Range</a></li>
-   <li><a href="">Fibonacci Sequence</a></li>
+   <li><a href="https://github.com/Akhras4/JS-Intermediate/blob/f22d7f72aae7078f67416c68a7bdfc7e0fcd8280/Fibonacci%20Sequence.js">Fibonacci Sequence</a></li>
 </ol>
